@@ -1,0 +1,55 @@
+.serach{
+    flex: 0 1 732px;
+    min-width: 0;
+    display: flexbox;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.first{
+    display: flex;
+    align-items: center;
+}
+.d p{
+    font-family: serif, 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 15px;
+    font-weight: 600;
+    
+}
+#youtube{
+    margin-left: 10px;
+    color: red;
+}
+#icon{
+    margin-left: 300px;
+}
+#tt{
+    width: 18px;
+}
+#ii{
+    color: #000;
+    background-color: #000;
+}
+.Int{
+        margin-left: 250px;
+        width: 300px;
+ }
+ .dark{
+    background-color: #000;
+    color: #fff;
+  
+    
+
+ }
+.d{
+display: flex;
+justify-content: center;
+margin-top: 10px;
+}
+#avo{
+    font-size:10px;
+    width: 30px;
+    height: 30px;
+    border-radius:25px;
+    /* margin-left: 550px; */
+}
